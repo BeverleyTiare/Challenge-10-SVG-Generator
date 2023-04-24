@@ -1,0 +1,4 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" height="300" width="200">
+        <circle cx="90" cy="90" r="90" stroke="#black" stroke-width="5" fill="#DCD7C9" />
+        <text x="90" y="90" fill="#3F4E4F" text-anchor="middle" alignment-baseline="middle" font-size="75">NYC</text>
+        </svg>
