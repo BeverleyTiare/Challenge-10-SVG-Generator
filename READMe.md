@@ -17,16 +17,15 @@ Following responses to prompts: an SVG file is created named logo.svg
 The output test ‘Generated logo.svg’ will be printed in the CLI
 View the logo in your browser to see a pixel img. to match chosen criteria.
 
-**TODO 
+Link to repo
+The URL of the GitHub repository: 
+https://github.com/BeverleyTiare/Challenge-10-SVG-Generator
 
-The URL of the GitHub repository: …
-
-Screenshot :
+Screenshot
 ![SVG](https://user-images.githubusercontent.com/122957548/233893958-4ef3b0c3-65e9-41b9-982f-dcd0594be711.png)
 
 
-
-Walkthrough Video: 
+Walkthrough Video 
 link: https://drive.google.com/file/d/14_TCW6UlpuOFPu6arx0cVq7uIlfW2d6I/view
 
 
